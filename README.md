@@ -1,3 +1,22 @@
+# NetFlix clone Frontend 
+
+- Build using Vite + React
+- TMDB API key used
+- deployed on Firebase
+- visit https://netflix-clone-9c8e0.web.app/
+
+# Usage
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
